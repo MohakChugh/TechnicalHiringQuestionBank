@@ -48,9 +48,15 @@ These documents are specifically designed for non-technical recruiters to effect
 
 - [Non-Technical Recruiter Data Analyst Questions](NON_TECHNICAL_RECRUITER_DATA_ANALYST_QUESTIONS.md) - 300 questions specifically designed for non-technical recruiters to ask Data Analysts, focusing on clear communication and practical experience.
 
+- [General Tech Recruiter Concepts](GeneralTechRecruiterConcepts.md) - 50 essential technical concepts explained in simple terms for recruiters, covering software development roles, programming languages, databases, cloud computing, and more.
+
+- [Computer Science Fundamentals](CSFundamentals.md) - 10 core computer science concepts explained clearly, focusing on data structures, algorithms, and their applications.
+
 ## Supporting Documentation
 
 - [Interview Answers Progress](INTERVIEW_ANSWERS_PROGRESS.md) - Status report on the creation of answer documents and plan for completing the remaining answers.
+
+- [Technical Hiring Toolkit Index](README.md) - This document, providing links to all resources in the toolkit with brief descriptions.
 
 ## How to Use This Toolkit
 
@@ -110,5 +116,7 @@ The non-technical recruiter documents focus on:
 - Business understanding
 - Teamwork and collaboration
 - Career development and professional growth
+- General technical concepts explained in simple terms
+- Computer science fundamentals in clear, accessible language
 
 These resources enable effective technical hiring at all stages of the recruitment process, from initial screening to in-depth technical assessment.
